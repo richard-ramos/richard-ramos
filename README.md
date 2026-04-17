@@ -17,7 +17,3 @@ building decentralized communication protocols at [vacp2p](https://github.com/va
 - [**subspace**](https://github.com/embarklabs/subspace) — reactive dapp development with auto syncing
 - [**murmur**](https://github.com/status-im/murmur) — whisper node implementation built in js
 - [**teller-network**](https://github.com/status-im/status-teller-network) - p2p fiat/crypto exchange
-
----
-
-[x](https://x.com/infohazrd_) · [linkedin](https://linkedin.com/in/richardrramos)
