@@ -12,7 +12,7 @@ building decentralized communication protocols at [vacp2p](https://github.com/va
 #### stuff I've worked on
 
 
-- [**logos-delivery-go**](https://github.com/logos-messaging/logos-delivery-go) — waku v2 protocol in go
+- [**logos-delivery-go**](https://github.com/logos-messaging/logos-delivery-go) — waku v2 protocols in go
 - [**status-app**](https://github.com/status-im/status-app) — decentralized crypto communication super app
 - [**subspace**](https://github.com/embarklabs/subspace) — reactive dapp development with auto syncing
 - [**murmur**](https://github.com/status-im/murmur) — whisper node implementation built in js
